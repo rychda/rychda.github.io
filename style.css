@@ -197,7 +197,7 @@ footer a {
     width: 33%;
     padding: 10px;
     vertical-align: top;
-    border: none;
+    border: 0;
 }
 
 #skills {

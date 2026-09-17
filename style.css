@@ -237,8 +237,9 @@ footer a {
     background: #333;
     color: white;
     border-radius: 4px;
-
-    white-space: nowrap;
+    
+    max-width: 250px;
+    white-space: normal;
     transition: opacity 0.2s;
 }
 

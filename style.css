@@ -201,6 +201,7 @@ footer a {
 }
 
 #skills {
+    border: 0;
     border-collapse: collapse;
 }
 
